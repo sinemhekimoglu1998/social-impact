@@ -7,22 +7,20 @@ article {
 
 }
 h1{
-    color: rgba(0, 112, 112, 0.61);
+    color: rgba(0, 0, 0, 0.57);
     text-align: center;
+    font-family: "Times New Roman", Times, serif;
 
 }
 h3 {
     font-weight: bold;
 }
-header {
-    background-color: rgba(98, 226, 212, 0.27);
-    color: black;
-    font-family: Serif
-}
 h2 {
-    font-size: 70px;
+    font-size: 40px;
     text-align: center;
-    color: rgba(21, 21, 21, 0.44);
+    color: white;
+    background-color: rgba(0, 54, 54, 0.38);
+    font-family: "Times New Roman", Times, serif;
 
 }
 footer {
@@ -31,22 +29,16 @@ footer {
     text-align: center;
     color: white;
 }
-li {
-    float: center;
-}
 article {
     text-align: center;
 }
-h1 {
-    background-color: rgba(0, 167, 167, 0.53);
-    color: rgba(22, 22, 22, 0.71);
 
-}
+
 p{
     color: rgba(76, 76, 76, 0.74);
 }
 h3 {
-    color: rgba(0, 0, 0, 0.75);
+    color: rgba(0, 0, 0, 0.63);
     text-align: center;
 }
 li {
@@ -82,3 +74,4 @@ button {
 h4 {
     color: #003636;
 }
+
