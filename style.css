@@ -1,3 +1,19 @@
 nav {
     text-align: center;
 }
+article {
+    display: inline-block;
+
+
+}
+h1{
+    color: rgba(0, 112, 112, 0.87);
+}
+h3 {
+    font-weight: bold;
+}
+header {
+    background-color: rgba(98, 226, 212, 0.27);
+    color: black;
+    font-family: Serif;
+}
